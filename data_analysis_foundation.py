@@ -23,7 +23,7 @@ class DataAnalyzer:
 
 
 # Testing the Class with sample data
-math_scores = DataAnalyzer("Algebra Finals", [85, 92, 78, 90, 88])
+math_scores = DataAnalyzer("Algebra Finals", [86, 91, 78, 90, 88])
 math_scores.display_summary()
 
 # Another instance for practice
